@@ -1,0 +1,37 @@
+body {
+    background-color: #c6c6c6;
+    accent-color: red;
+
+}
+
+label {
+    font-size: 40pt;
+    margin-right: 10pt;
+    margin-left: 10pt;
+
+}
+
+input{
+    padding: 5px;
+    font-size: 40pt;
+    border-radius: 15px;
+    text-decoration-style: wavy;
+}
+
+.submit {
+    margin-left: 55pt;
+    font-size: 30pt;
+    border-radius: 30px;
+    border-style: solid;
+    border-color: #ff0000;
+    background-color: rgba(205, 205, 205, 0.41);
+    border-width: 5px;
+    padding: 40px;
+
+}
+
+.submit:hover {
+    border-color: #ff0000;
+    color: black;
+    background-color: red;
+}
